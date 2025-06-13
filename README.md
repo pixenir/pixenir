@@ -1,4 +1,4 @@
-9# Pixenir Blogspot - ডাউনলোডযোগ্য ডিজাইন ফাইলসমূহ
+# Pixenir Blogspot - ডাউনলোডযোগ্য ডিজাইন ফাইলসমূহ
 
 এই রিপোজিটরিটি [Pixenir Blogspot](https://pixenir.blogspot.com/) ওয়েবসাইটের জন্য তৈরি করা হয়েছে। এখানে বিভিন্ন গ্রাফিক্স ডিজাইন সম্পর্কিত ফাইল যেমন PSD (Adobe Photoshop), PLP (Pixellab Project), এবং AI (Adobe Illustrator) ফাইল সংরক্ষণ করা হবে। এই ফাইলগুলো ওয়েবসাইটের পোস্টে ডাউনলোডের জন্য লিঙ্ক করা হবে।
 
