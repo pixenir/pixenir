@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Noto Serif Bengali';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://raw.githubusercontent.com/pixenir/pixenir/main/assets/fonts/noto-serif-bengali-bold.woff2') format('woff2'),
+    url('https://raw.githubusercontent.com/pixenir/pixenir/main/assets/fonts/noto-serif-bengali-bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Noto Serif Bengali';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100;
+  src: url('https://raw.githubusercontent.com/pixenir/pixenir/main/assets/fonts/noto-serif-bengali-light.woff2') format('woff2'),
+    url('https://raw.githubusercontent.com/pixenir/pixenir/main/assets/fonts/noto-serif-bengali-light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Noto Serif Bengali';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://raw.githubusercontent.com/pixenir/pixenir/main/assets/fonts/noto-serif-bengali-regular.woff2') format('woff2'),
+    url('https://raw.githubusercontent.com/pixenir/pixenir/main/assets/fonts/noto-serif-bengali-regular.ttf') format('truetype');
+}
