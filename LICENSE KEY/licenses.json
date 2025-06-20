@@ -1,20 +1,8 @@
 [
   {
     "blog_id": "2504800458091225780",
-    "username": "Mobarok_Hossain_Client_1",
+    "username": "Mobarok_Admin",
     "license_key": "12345678",
-    "status": "active"
-  },
-  {
-    "blog_id": "1234567890123456789",
-    "username": "Another_Client_Inactive",
-    "license_key": "MUBAROK-INACTIVE-XXXX-YYYY-ZZZZ",
-    "status": "inactive"
-  },
-  {
-    "blog_id": "9876543210987654321",
-    "username": "Premium_User_Active",
-    "license_key": "MUBAROK-PREMIUM-QW8E-R4T6-Y2U1",
     "status": "active"
   }
 ]
